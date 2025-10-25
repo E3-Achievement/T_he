@@ -1,0 +1,46 @@
+{
+  "name": "hash-clipboard-foundation",
+  "version": "2.4",
+  "exported_at": "2025-10-25T02:50:35.525Z",
+  "stats": {
+    "total_lines": 12,
+    "total_chars": 526,
+    "total_media": 2,
+    "canvas_count": 2
+  },
+  "hashes": {
+    "master_sha256": "9a6e8cd450f3a4af655c03a5613d3e904f2960894a83679022fa21a5fb66cd7d"
+  },
+  "canvases": [
+    {
+      "index": 0,
+      "id": "o8csnls6",
+      "title": "Untitled canvas",
+      "path": "canvases/canvas-0/",
+      "stats": {
+        "lines": 7,
+        "chars": 261,
+        "mediaCount": 1
+      },
+      "hashes": {
+        "content_sha256": "1bfe65ce7bd1bbb23c9459d3375fa49730153b0d956dd7e27b368f6dcc9d7f6e",
+        "foundation_sha256": "99fb9b943341363e1ffd9137d39cfaf5b5109fe77847c0ae5efd75319cebc303"
+      }
+    },
+    {
+      "index": 1,
+      "id": "tyyqgm8t",
+      "title": "Welcome v2.4",
+      "path": "canvases/canvas-1/",
+      "stats": {
+        "lines": 5,
+        "chars": 265,
+        "mediaCount": 1
+      },
+      "hashes": {
+        "content_sha256": "2ed6bb7e8395c0b6385e311bec23040df51c29573dd09c656a839befac61b38e",
+        "foundation_sha256": "10554a6687e8bb7e4b5e17fe69f4705f181699ff84c2dd2ced4eb25fa83dff76"
+      }
+    }
+  ]
+}

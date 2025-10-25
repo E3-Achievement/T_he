@@ -1,0 +1,17 @@
+{
+  "id": "tyyqgm8t",
+  "title": "Welcome v2.4",
+  "timestamps": {
+    "created": "2025-10-25T02:38:46.422Z",
+    "modified": "2025-10-25T02:50:30.532Z"
+  },
+  "stats": {
+    "lines": 5,
+    "chars": 265,
+    "mediaCount": 1
+  },
+  "hashes": {
+    "content_sha256": "2ed6bb7e8395c0b6385e311bec23040df51c29573dd09c656a839befac61b38e",
+    "foundation_sha256": "10554a6687e8bb7e4b5e17fe69f4705f181699ff84c2dd2ced4eb25fa83dff76"
+  }
+}
